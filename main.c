@@ -7,4 +7,5 @@ int main(void):
 
     int total = a + b;
     total--;
+    total++;
     return 0;
