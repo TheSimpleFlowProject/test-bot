@@ -6,4 +6,5 @@ int main(void):
     int b = 2;
 
     int total = a + b;
+    total--;
     return 0;
