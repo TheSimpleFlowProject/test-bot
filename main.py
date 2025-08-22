@@ -24,6 +24,10 @@ def print_hello_and_return_2():
     print("Hello")
     return 2
 
+def print_hello_and_return_3():
+    print("Hello")
+    return 3
+
 def main():
     print("Hello World")
 
