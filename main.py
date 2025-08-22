@@ -20,6 +20,10 @@ def fibonacci(n):
             b = c
         return b
 
+def print_hello_and_return_2():
+    print("Hello")
+    return 2
+
 def main():
     print("Hello World")
 
