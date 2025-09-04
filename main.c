@@ -9,5 +9,6 @@ int main(void):
     total--;
     total++;
     total--;
+    total++;
     
     return 0;
