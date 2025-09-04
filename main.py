@@ -1,6 +1,7 @@
 def fibonacci(n):
     a = 0
     b = 1
+    c = 2
     
     # Check if n is less than 0
     if n < 0:
