@@ -8,5 +8,9 @@ int main(void):
     int total = a + b;
     total--;
     total++;
+    total--;
+    total++;
+    total--;
+    total++;
     
     return 0;
